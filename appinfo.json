@@ -1,0 +1,22 @@
+{
+    "appKeys": {
+        "message": 1,
+        "status": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "paulkerby@gmail.com",
+    "longName": "Test",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Test",
+    "uuid": "7ad396a5-066e-40b2-abf4-0c0a1be6a83b",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
